@@ -7,6 +7,7 @@
      <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
      <hr/>
      <div style="display:flex">
+     <div style="justify-content:center">
     <p align="left" style="max-width:40%">
 Hi, I'm Vivek, a passionate software developer with extensive knowledge in HTML, CSS, JavaScript, React, and Node.js. I bring innovative and efficient solutions to complex technical challenges. I'm always eager to learn and grow in my field.
 
