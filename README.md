@@ -1,16 +1,36 @@
-### Hi there 👋
+<!-- hello everyone 👋 i'm &#128512; chhavi ... -->
 
-<!--
-**vivekkr2308/vivekkr2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I'm Vivek Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--<div align="center">
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
+</div>-->
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+     <hr/>
+     <div style="display:flex">
+    <p align="left" style="max-width:40%">
+Hi, I'm Vivek, a passionate software developer with extensive knowledge in HTML, CSS, JavaScript, React, and Node.js. I bring innovative and efficient solutions to complex technical challenges. I'm always eager to learn and grow in my field.
 
-Here are some ideas to get you started:
+I am skilled in HTML, CSS, Javascript, ReactJS. I am good in data structure and algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+</p>
+
+</div>
+
+Here are some ideas to get you started:-->
+
+<hr/>
+🌱<p> What do I do? </p>
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+
+✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+
+<hr/>
+<h2>Languge and tools</h2>
+<h5>HTML , CSS ,SCSS, javascript , Linux(CLI),React,material UI,TypeScript,NodeJs, MongoDb</h5>
+
+<h2 align="left">🤝Let's Connect</h2>
+
+<a href="https://www.linkedin.com/in/vivekkr2308/" target="blank"><img align="center"   height="50" width="50"/></a>
