@@ -28,9 +28,12 @@ Here are some ideas to get you started:-->
 ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 
 <hr/>
-<h2>Languge and tools</h2>
+<h2>Language and tools</h2>
 <h5>HTML , CSS ,SCSS, javascript , Linux(CLI),React,material UI,TypeScript,NodeJs, MongoDb</h5>
 
-<h2 align="left">🤝Let's Connect</h2>
+### Connect with Me 🤝🏻
+[![Linkedin](https://img.shields.io/badge/Linkedin-vivekkr2308-blue&?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/vivekkr2308/)
+[![Hackerrank](https://img.shields.io/badge/Hakerrank-vivekkr2308-blue&?style=for-the-badge&logo=hackerrank&color=blue)](https://www.hackerearth.com/@vivekkr2308)
+[![Github](https://img.shields.io/badge/Github-vivekraj0078-blue&?style=for-the-badge&logo=github&color=blue)](https://github.com/vivekraj0078)
 
-<a href="https://www.linkedin.com/in/vivekkr2308/" target="blank"><img align="center"   height="50" width="50"/></a>
+<img src="https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif" width="950dp" height="200dp" />
