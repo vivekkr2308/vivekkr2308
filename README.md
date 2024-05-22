@@ -1,36 +1,41 @@
-<!-- hello everyone 👋 i'm &#128512; chhavi ... -->
-
-<h1 align="center">Hi , I'm Vivek Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Welcome to My GitHub Profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Frontend+Web+Developer;Full+Stack+Web+Developer"></img></a>
 </div>
 <div>
      <hr/>
      <div>
     <p align="left" style="max-width:40%">
-Hi, I'm Vivek, a passionate software developer with extensive knowledge in HTML, CSS, JavaScript, React, and Node.js. I bring innovative and efficient solutions to complex technical challenges. I'm always eager to learn and grow in my field.
-
-I am skilled in HTML, CSS, Javascript, ReactJS. I am good in data structure and algorithms.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I'm Vivek, a passionate software developer with extensive knowledge and hands-on experience in HTML, CSS, JavaScript, React, Redux, Node.js and MongoDb. I thrive on tackling complex technical challenges with innovative and efficient solutions.
 
 </p>
 
 </div>
 
-Here are some ideas to get you started:-->
 
 <hr/>
-🌱<p> What do I do? </p>
-
-✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
-
-✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+🌱 What Do I Do?
+Fast Learner: Continuously expanding my skill set and staying updated with the latest in web development.
+Career Aspirations: Seeking exciting opportunities as a MERN Stack developer to grow and excel in the world of web development.
 
 <hr/>
-<h2>Language and tools</h2>
-<h5>HTML , CSS ,SCSS, javascript , Linux(CLI),React,material UI,TypeScript,NodeJs, MongoDb</h5>
+⚙️ Languages and Tools:
+Frontend Technologies: HTML, CSS, Tailwind CSS, JavaScript, React.js, React Router, Redux
+Backend Technologies: Node.js, Express.js, MongoDB, Mongoose,
+Version Control & IDEs: Git, GitHub, VS Code, Postman
+Other Skills: Linux (CLI), TypeScript, firebase
 
+<hr/>
 
+🚀 Open-Source Enthusiast
+Community-Driven: I have learned immensely from the open-source community and actively contribute to it. I cherish the spirit of collaboration and knowledge sharing that open-source fosters.
 
-<img src="https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif" width="950dp" height="200dp" />
+<hr/>
+
+🌟 Let's Connect!
+I'm always open to connecting with like-minded individuals, learning new things, and exploring opportunities for collaboration. Feel free to check out my projects and get in touch!
+
+<hr/>
+
+Thanks for visiting my profile! 😊
+
